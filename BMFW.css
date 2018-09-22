@@ -1,0 +1,38 @@
+h1
+{
+    font-size: 1.6em;
+}
+
+h2
+{
+    font-size: 1.4em;
+}
+
+h3
+{
+    font-size: 1.2em;
+}
+
+aside
+{
+    padding-left: 50px;
+    border-bottom: 3px solid black;
+}
+
+body
+{
+    min-width: 350px;
+    overflow: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:1em;
+}
+
+em
+{
+    font-style: italic;
+}
+
+.taillecaracteres
+{
+    font-size: 1.4em;
+}
